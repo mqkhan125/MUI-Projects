@@ -3,7 +3,7 @@ import React from 'react'
 
 const Right = () => {
   return (
-    <Box flex={2} bgcolor={'blue'}>Right</Box>
+    <Box bgcolor={'blue'}>Right</Box>
   )
 }
 
